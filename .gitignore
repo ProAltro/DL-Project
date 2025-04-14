@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+datasets
+expanded_dataset
+ISIC_DS
+black_magic
